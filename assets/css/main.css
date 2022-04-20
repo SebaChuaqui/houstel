@@ -57,10 +57,11 @@ body {
 .main_titulo_destacado {
   font-family: "Playfair Display", sans-serif;
   font-weight: 700;
+  font-size: 100px;
 }
 
 .main_titulo_destacado_xxxxl_large {
-  font-size: 130px;
+  font-size: 330px;
 }
 
 .main_boton {

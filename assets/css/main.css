@@ -54,12 +54,12 @@ body {
   text-align: center;
 }
 
-.main_titulo-destacado {
+.main_titulo_destacado {
   font-family: "Playfair Display", sans-serif;
   font-weight: 700;
 }
 
-.main_titulo-destacado_xxxxl_large {
+.main_titulo_destacado_xxxxl_large {
   font-size: 130px;
 }
 
@@ -98,21 +98,21 @@ body {
   color: #fff;
 }
 
-.boton_1 {
+.boton_buscar {
   background-color: #e94f37;
   border-color: #e94f37;
 }
-.boton_1:hover {
+.boton_buscar:hover {
   background-color: #ef7f6d;
   border-color: #ef7f6d;
   color: #393e41;
 }
 
-.boton_2 {
+.boton_destino {
   background-color: #44bba4;
   border-color: #44bba4;
 }
-.boton_2:hover {
+.boton_destino:hover {
   background-color: #66c7b4;
   border-color: #66c7b4;
 }

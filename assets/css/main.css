@@ -20,7 +20,7 @@ h6 {
 body {
   height: 100vh;
   background-color: #fff;
-  background-image: url("assets/images/background.jpg");
+  background-image: url("../images/background.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: 80%;
@@ -73,7 +73,7 @@ body {
   transform: translateX(-50%);
   top: 45vh;
   height: 370px;
-  width: 525px;
+  width: 1150px;
   margin-left: 0;
   padding: 8px 16px;
   border-radius: 3px;

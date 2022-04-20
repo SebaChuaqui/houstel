@@ -1,0 +1,26 @@
+.form_label {
+    margin-top: 8px;
+    padding-bottom: 4px;
+    font-family: $secondary-font;
+    font-size: $x-small;
+    color: $granite-grey;
+}
+
+.form_text,
+.form_date,
+.form_select {
+    height: 30px;
+    padding-left: 5px;
+    font-size: $small;
+    color: $old-silver;
+}
+
+.form_text,
+.form_date {
+    border-radius: 5px;
+    border: 1px solid $grey;
+}
+
+.form_select {
+    background-color: $white;
+}

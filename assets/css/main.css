@@ -26,6 +26,70 @@ body {
   background-position: 80%;
 }
 
+.header {
+  padding-top: 32px;
+  padding-left: 32px;
+}
+
+.logo {
+  width: 120px;
+}
+
+.main {
+  position: absolute;
+  left: 50%;
+  top: 9.5vh;
+  transform: translateX(-50%);
+}
+
+.main_container {
+  width: 200px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.main_titulo {
+  color: #fff;
+  text-align: center;
+}
+
+.main_titulo-destacado {
+  font-family: "Playfair Display", sans-serif;
+  font-weight: 700;
+}
+
+.main_titulo-destacado_xxxxl_large {
+  font-size: 130px;
+}
+
+.main_boton {
+  margin: -20px;
+}
+
+.form {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  top: 45vh;
+  height: 370px;
+  width: 525px;
+  margin-left: 0;
+  padding: 8px 16px;
+  border-radius: 3px;
+  background-color: #fff;
+}
+
+.form_container {
+  display: flex;
+  flex-direction: column;
+}
+
+.form_boton {
+  padding-top: 8px;
+  text-align: center;
+}
+
 .boton {
   padding: 11.2px 32px;
   border-radius: 3px;

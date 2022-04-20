@@ -1,0 +1,31 @@
+.main {
+    position: absolute;
+    left: 50%;
+    top: 9.5vh;
+    transform: translateX(-50%);
+}
+
+.main_container {
+    width: 200px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.main_titulo {
+    color: $white;
+    text-align: center;
+}
+
+.main_titulo-destacado {
+    font-family: $primary-font;
+    font-weight: $bold;
+}
+
+.main_titulo-destacado_xxxxl_large {
+    font-size: $xxxx-large;
+}
+
+.main_boton {
+    margin: -20px;
+}

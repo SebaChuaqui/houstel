@@ -1,3 +1,56 @@
+body {
+  margin: 0;
+}
 
+img {
+  max-width: 100%;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Open Sans", sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+}
+
+body {
+  height: 100vh;
+  background-color: #fff;
+  background-image: url("assets/images/background.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 80%;
+}
+
+.boton {
+  padding: 11.2px 32px;
+  border-radius: 3px;
+  font-family: "Open Sans", sans-serif;
+  font-size: 14px;
+  color: #fff;
+}
+
+.boton_1 {
+  background-color: #e94f37;
+  border-color: #e94f37;
+}
+.boton_1:hover {
+  background-color: #ef7f6d;
+  border-color: #ef7f6d;
+  color: #393e41;
+}
+
+.boton_2 {
+  background-color: #44bba4;
+  border-color: #44bba4;
+}
+.boton_2:hover {
+  background-color: #66c7b4;
+  border-color: #66c7b4;
+}
 
 /*# sourceMappingURL=main.css.map */
